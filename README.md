@@ -37,7 +37,7 @@ This repository provides example code and tutorials for various use cases of ult
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/pr1yamdas/Ultrasonic-HCSR04.git
+   git clone https://github.com/pr1yamdas/ultrasonic-HCSR04.git
 
 
 
